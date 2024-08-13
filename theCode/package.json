@@ -1,9 +1,10 @@
 {
   "name": "thecode",
   "version": "0.0.0",
+  "type": "module",
   "private": true,
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.mjs"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
