@@ -13,5 +13,6 @@ import * as matrixcs from "./matrix";
 SyntaxError: Cannot use import statement outside a module
 
 Steps:
+- cd theCode
 - npm install
-- npm start
+- npm start OR alternatively node app.mjs
